@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/badge/Tecnologias-OpenShift%20%7C%20DevOps%20%7C%20OpenTelemetry-D81B60?style=for-the-badge&logo=redhat&logoColor=white" alt="Badge de Tecnologias"/>
   <img src="https://img.shields.io/badge/Conceitos-Observabilidade%20%7C%20Logs%20%7C%20Métricas%20%7C%20Traces-039BE5?style=for-the-badge&logo=grafana&logoColor=white" alt="Badge de Conceitos"/>
 </p>
+<p align="center">
+  <img src="https://github.com/Mirellawanessa/observabilidade-devops-openshift/blob/main/Artigo/assets/img/Design%20sem%20nome_20250928_075531_0000.png" alt="Banner do Artigo: Observabilidade e DevOps em Ação, os 3 Pilares para Resiliência em Microsserviços com OpenShift" />
+</p>
 
 O desenvolvimento de software moderno não termina com o código funcionando na sua máquina. **Ele começa com a garantia de que esse código sobreviverá e prosperará em ambientes complexos e dinâmicos.**
 
