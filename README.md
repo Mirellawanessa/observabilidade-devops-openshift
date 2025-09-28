@@ -46,7 +46,7 @@ A Observabilidade não é apenas uma ferramenta; é uma **Open Innovation** na c
 
 Se você trabalha com **OpenShift**, **DevOps** ou está em transição para arquiteturas de microsserviços, este guia é essencial para elevar sua *expertise* em produção.
 
-➡️ **[Leia o Artigo Completo na DIO.me aqui!](https://img.shields.io/badge/Artigo%20Publicado%20na-DIO.me-7C3AED?style=for-the-badge&logo=react&logoColor=white)*
+➡️ **[Leia o Artigo Completo na DIO.me aqui!](https://www.dio.me/articles/observabilidade-e-devops-em-acao-os-3-pilares-para-a-resiliencia-em-microsservicos-com-openshift-8002f326300e)*
 
 ---
 
